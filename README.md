@@ -29,3 +29,17 @@ license for program: >create new file: MyDemoRepo/LICENCE and github genetares o
    
 https://cookiecutter.readthedocs.io/en/latest/usage.html#grab-a-cookiecutter-template
 makes all needed stuff, files for a program like for a standard python program
+
+Different libraries for testing you code:
+ pytest
+
+Asserting - its not testing - it is defensive programing :D
+not the best way to deal with errors - makes code longer, less understandable
+
+pytest -s 
+  print print statement
+  
+python mock library
+
+>ipython >requests.get for dowloading stuff from web
+
