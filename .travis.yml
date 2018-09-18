@@ -8,8 +8,9 @@ install:
   
   - pip install Mock
   - pip install requests
-  - pip install pytest-cov
+  
   
 # command to run tests
 script:
+  - pip install pytest
   - pytest
