@@ -21,7 +21,7 @@ style aligning to ussual code makes code easier for other readers
 its nice to include DOI of softwer (zenodo.org can make a DOI for a specific software) - make reaserch reproducible
 my program shoud be discoverable - good to put key words in the description and specify topics 
 
-license for program: MyDemoRepo/LICENCE and github genetares one, i guess
+license for program: >create new file: MyDemoRepo/LICENCE and github genetares one, i guess
    apache licence - is more permisive - short, alows a lot
    gpl (general public license) - doesnt alow much stuff
    
