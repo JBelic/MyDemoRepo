@@ -26,3 +26,6 @@ license for program: >create new file: MyDemoRepo/LICENCE and github genetares o
    apache licence - is more permisive - short, alows a lot
    gpl (general public license) - doesnt alow much stuff
    
+   
+https://cookiecutter.readthedocs.io/en/latest/usage.html#grab-a-cookiecutter-template
+makes all needed stuff, files for a program like for a standard python program
