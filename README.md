@@ -43,3 +43,6 @@ python mock library
 
 >ipython >requests.get for dowloading stuff from web
 
+travis for testing your program with meny diff variables
+
+
